@@ -45,3 +45,14 @@ npm install -D gulp
 ## reset.css
 
 [HTML5 Doctor: HTML5 Reset Stylesheet](http://html5doctor.com/html-5-reset-stylesheet/)
+
+## 開発環境全般
+
+### 参考
+
+以下の  
+フロントエンド開発環境  
+フロントエンドデバッグ環境
+を後々、参考にする
+
+[Web 開発環境についてのまとめ（随時更新）](https://qiita.com/i-ryo/items/35b057aead8d6cb29203)
