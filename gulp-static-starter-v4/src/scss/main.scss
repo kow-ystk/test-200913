@@ -1,12 +1,21 @@
-@import 'reset';
+@import "reset";
+
+html {
+  font-size: 62.5%;
+}
 
 .wrapper {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 70vh;
   h1 {
     font-weight: 400;
+    font-size: 5.6rem;
   }
+}
+
+span {
+  font-size: 1.6rem;
 }
