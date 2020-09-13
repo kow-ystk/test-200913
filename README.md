@@ -41,3 +41,7 @@ npm install -D gulp
 
 [Gulp v4.0 で HTML5(Pug) + CSS3(Sass)の爆速コーディング環境構築](https://yikeda.dev/blog/19-04-24-gulp-v4-setting/)
 [上記の GitHub リポジトリ](https://github.com/yikeda6616/gulp-static-starter-v4)
+
+## reset.css
+
+[HTML5 Doctor: HTML5 Reset Stylesheet](http://html5doctor.com/html-5-reset-stylesheet/)
